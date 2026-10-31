@@ -1,9 +1,5 @@
 # SPE-PoG: Semantic Pre-filtering Enhanced Paths-over-Graph
 
-> **Naming note.** The method was originally called SAGE-PoG; the repository
-> and the manuscript now both use SPE-PoG. Older commit messages still carry
-> the former name. GitHub redirects the old repository URL, so previously
-> distributed links keep working.
 
 Reference implementation and derived results for the SPE-PoG manuscript.
 The manuscript is currently under review; bibliographic details will be added
