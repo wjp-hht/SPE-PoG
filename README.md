@@ -1,6 +1,11 @@
-# SAGE-PoG: Efficient Multi-hop Graph Reasoning via Semantic Pre-filtering with Sufficiency-Aware Fallback
+# SPE-PoG: Semantic Pre-filtering Enhanced Paths-over-Graph
 
-Reference implementation and derived results for the SAGE-PoG manuscript.
+> **Naming note.** The method was originally called SAGE-PoG; the repository
+> and the manuscript now both use SPE-PoG. Older commit messages still carry
+> the former name. GitHub redirects the old repository URL, so previously
+> distributed links keep working.
+
+Reference implementation and derived results for the SPE-PoG manuscript.
 The manuscript is currently under review; bibliographic details will be added
 here once it is published.
 
